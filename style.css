@@ -1,0 +1,29 @@
+body {
+  background-color: #262626;
+}
+.container-fluid {
+  padding: 30px;
+}
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 60px;
+}
+button {
+  font-family: 'Pacifico', cursive;
+}
+p {
+  font-family: 'Sacramento', cursive;
+  font-size:
+}
+#top-bar{
+  background-color: lightgreen;
+  border-radius: 50px;
+}
+.container {
+  background-color: lightcyan;
+  border-radius: 50px;
+  margin-top: 50px;
+}
+.quote-box {
+  font-size: 60px;
+}
