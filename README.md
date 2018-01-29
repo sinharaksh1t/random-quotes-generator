@@ -5,3 +5,4 @@
 ### Code
 This is one of the intermediate projects on freecodecamp.org which asks you to create a random quote generator that fetches quotes from outside APIs.
 Built using Bootstrap, CSS and jQuery.
+View the demo on [codepen](https://codepen.io/sinharaksh1t/full/WjYNPv/)!
